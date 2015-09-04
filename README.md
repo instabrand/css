@@ -1,6 +1,11 @@
-# Airbnb CSS / Sass Styleguide
+# InstaBrand CSS / Sass Styleguide
 
 *A mostly reasonable approach to CSS and Sass*
+
+Based on the most excellent [Airbnb Style Guide](https://github.com/airbnb/css)
+
+Other Style Guides
+    - [JavaScript](https://github.com/instabrand/javascript)
 
 ## Table of Contents
 
@@ -63,7 +68,7 @@ Finally, properties are what give the selected elements of a rule declaration th
 
 ### Formatting
 
-* Use soft tabs (2 spaces) for indentation
+* Use soft tabs (4 spaces) for indentation
 * Prefer dashes over camelCasing in class names. Underscores are OK if you're using BEM (see [OOCSS and BEM](#oocss-and-bem) below).
 * Do not use ID selectors
 * When using multiple selectors in a rule declaration, give each selector its own line.
